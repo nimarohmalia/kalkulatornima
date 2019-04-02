@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7a780682fc9a9c0d2dd72ebac3d20485\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bafe5650c870c2064c0b67bf9cd90a10\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3e2812daa774f612084b30b574a98d4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b999adbed01c810eb84d004a3bbd39bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bb080a21cb392ecc3995409697c7246c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a56f7aed4cf241a885610be1a6ce451d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6c4233c31c20a9a4238e8d2d2ca38e6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c2f5d1335114043b5224934ead47bd04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\478d97d9682a79dc6ec2bf8f6f96c3c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ad2c597ed4971c5a5e14859c0cfc45e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aeb9785bdd9f57f8e649848a559c5870\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\de5b023596a2d6d7cab315f1be6eb545\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5732bd35c789fd5067ddf82d01a58928\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\34d8e30c32e030fe8991e9f30a95b107\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d4900ea540586409028594c26759c33e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\76505ae7e17f2e4409dda4d105cf7240\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\28f752add853519366f5236620f47d48\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fbaa44cfd245fa11e4392865bf472024\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e9a2fbdd51332b2a5b878d75d555f55a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8cf0c149f992a051273c985262a821a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\17c9ba3cb986846a5fd39c606aba931c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\cb4f83d763929822e6ceedb7c8df9d13\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\68b50f0e11e43c077a4f6044da4aaa3b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\61e8591ffb0afb47732e996f7588d20b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d2d288b9642194a354520a6b575f252b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6f880eea4498a36d03ab841c1260e6e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c2fa77a288143e6b11adfb58fd904af3\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bafe5650c870c2064c0b67bf9cd90a10\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bafe5650c870c2064c0b67bf9cd90a10\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\76505ae7e17f2e4409dda4d105cf7240\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\76505ae7e17f2e4409dda4d105cf7240\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\28f752add853519366f5236620f47d48\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\28f752add853519366f5236620f47d48\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\76505ae7e17f2e4409dda4d105cf7240\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:11:9-40
+activity#kalkulatornima.rohmalia.nima.kalkulatornima.MainActivity
+ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7a780682fc9a9c0d2dd72ebac3d20485\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7a780682fc9a9c0d2dd72ebac3d20485\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bafe5650c870c2064c0b67bf9cd90a10\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bafe5650c870c2064c0b67bf9cd90a10\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3e2812daa774f612084b30b574a98d4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3e2812daa774f612084b30b574a98d4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b999adbed01c810eb84d004a3bbd39bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b999adbed01c810eb84d004a3bbd39bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bb080a21cb392ecc3995409697c7246c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bb080a21cb392ecc3995409697c7246c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a56f7aed4cf241a885610be1a6ce451d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a56f7aed4cf241a885610be1a6ce451d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6c4233c31c20a9a4238e8d2d2ca38e6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6c4233c31c20a9a4238e8d2d2ca38e6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c2f5d1335114043b5224934ead47bd04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c2f5d1335114043b5224934ead47bd04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\478d97d9682a79dc6ec2bf8f6f96c3c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\478d97d9682a79dc6ec2bf8f6f96c3c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ad2c597ed4971c5a5e14859c0cfc45e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ad2c597ed4971c5a5e14859c0cfc45e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aeb9785bdd9f57f8e649848a559c5870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aeb9785bdd9f57f8e649848a559c5870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\de5b023596a2d6d7cab315f1be6eb545\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\de5b023596a2d6d7cab315f1be6eb545\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5732bd35c789fd5067ddf82d01a58928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5732bd35c789fd5067ddf82d01a58928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\34d8e30c32e030fe8991e9f30a95b107\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\34d8e30c32e030fe8991e9f30a95b107\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d4900ea540586409028594c26759c33e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d4900ea540586409028594c26759c33e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\76505ae7e17f2e4409dda4d105cf7240\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\76505ae7e17f2e4409dda4d105cf7240\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\28f752add853519366f5236620f47d48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\28f752add853519366f5236620f47d48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fbaa44cfd245fa11e4392865bf472024\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fbaa44cfd245fa11e4392865bf472024\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e9a2fbdd51332b2a5b878d75d555f55a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e9a2fbdd51332b2a5b878d75d555f55a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8cf0c149f992a051273c985262a821a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8cf0c149f992a051273c985262a821a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\17c9ba3cb986846a5fd39c606aba931c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\17c9ba3cb986846a5fd39c606aba931c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\cb4f83d763929822e6ceedb7c8df9d13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\cb4f83d763929822e6ceedb7c8df9d13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\68b50f0e11e43c077a4f6044da4aaa3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\68b50f0e11e43c077a4f6044da4aaa3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\61e8591ffb0afb47732e996f7588d20b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\61e8591ffb0afb47732e996f7588d20b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d2d288b9642194a354520a6b575f252b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d2d288b9642194a354520a6b575f252b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6f880eea4498a36d03ab841c1260e6e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6f880eea4498a36d03ab841c1260e6e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c2fa77a288143e6b11adfb58fd904af3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ACER\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c2fa77a288143e6b11adfb58fd904af3\AndroidManifest.xml:20:5-44
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+		ADDED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Semester 6 Nima\Mobile Computing\KalkulatorNima\app\src\main\AndroidManifest.xml
